@@ -4,7 +4,7 @@ Welcome to my Data Analyst Apprentice portfolio! This repository contains my wor
 
 ## Dataset
 
-The dataset used for this project is **EU_Superstore_dataset.xls**. This dataset contains Row ID`: Unique identifier for each row.
+The dataset used for this project is **EU_Superstore_dataset.xls**. This dataset contains 
 - `Order ID`: Identifier for the order.
 - `Order Date`: Date of the order placement.
 - `Ship Date`: Date of order shipment.
